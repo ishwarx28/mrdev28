@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mrdev28
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Java, javascript,python
-- 💞️ I’m looking to collaborate on android apps
-- 📫 How to reach me : mrdev.288@gmail.com
+Hi 👋, <I>I’m <b>Ishwar Meghwal</b>, A coding addict person who spend whole day experimenting with java snippets. You can find some of my projects on my GitHub profile.
+Feel free to connect with me and share your feedback.</I> 😊
 
-<!---
-mrdev28/mrdev28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://instagram.com/ishwarx28">
+    <img src="https://img.shields.io/badge/Instagram-ff00cc"
+         alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/ishwar-meghwal-34848b241"><img src="https://img.shields.io/badge/Linkedin-Account-f39f37"></a>
+</p>
